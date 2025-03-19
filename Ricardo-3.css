@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 5%;
 }
 
 .cabecalho-lista-item{
@@ -24,8 +24,8 @@ body {
     font-size: 16px;
 }
 
-.escola-imagem{
-    width: 25%;
+.maiden_imagem{
+    width: 100%;
 }
 
 .escola{
